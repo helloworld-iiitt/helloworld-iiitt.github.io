@@ -10,20 +10,20 @@ Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy
 
 <span id="a"> Upcoming Events:[Click to Register]</span>  
 <br/>
-<span id="k"> <a href="https://helloworld-iiitt.github.io/">bit_by_bit</a> </span>
+<span id="k"> <a href="https://helloworld-iiitt.github.io/"># bit_by_bit</a> </span>
 
 
 <br/>
 
 <span id="a"> Past Events: [Click to Know More]</span> 
 <br/>
- <a href="https://helloworld-iiitt.github.io/Winter-Of-Code-19/">Winter Of Code 2019</a>
+ <a href="https://helloworld-iiitt.github.io/Winter-Of-Code-19/"># Winter Of Code 2019</a>
 <br/> 
-<a href="https://medium.com/@helloworld.iiitt/dev-streak-8d5c56158ec7">Dev Streak</a>
+<a href="https://medium.com/@helloworld.iiitt/dev-streak-8d5c56158ec7"># Dev Streak</a>
 <br/>
-<a href="https://medium.com/@helloworld.iiitt/ha-sh-19-an-introduction-to-open-source-with-hacktoberfest-38566ec70fb7">#Ha[.sh]</a>
+<a href="https://medium.com/@helloworld.iiitt/ha-sh-19-an-introduction-to-open-source-with-hacktoberfest-38566ec70fb7"># Ha[.sh]</a>
 <br/>
-<a href="https://www.codechef.com/CBCP2020/">Cypher Ball:The Code Party</a>
+<a href="https://www.codechef.com/CBCP2020/"># Cypher Ball:The Code Party</a>
 
 <br/>
 
