@@ -10,7 +10,7 @@ Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy
 
 <span id="a">@Upcoming Events:[Click to Register]</span>  
 <br/>
-<span id="k"> <a href="https://forms.gle/dbvXXBrM8fBUAPgJ8"># bit_by_bit</a> </span>
+<span id="k"> <a href="https://forms.gle/dbvXXBrM8fBUAPgJ8" target="new"># bit_by_bit</a> </span>
 
 
 <br/>
