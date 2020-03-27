@@ -8,14 +8,14 @@ Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy
 <p>We are a group of tech enthusiasts who love open source world ,are recreational programmers & code golfers and software developers</p>
 
 
-<span id="a"> Upcoming Events:[Click to Register]</span>  
+<span id="a">@ Upcoming Events:[Click to Register]</span>  
 <br/>
 <span id="k"> <a href="https://helloworld-iiitt.github.io/"># bit_by_bit</a> </span>
 
 
 <br/>
 
-<span id="a"> Past Events: [Click to Know More]</span> 
+<span id="a">@ Past Events: [Click to Know More]</span> 
 <br/>
  <a href="https://helloworld-iiitt.github.io/Winter-Of-Code-19/"># Winter Of Code 2019</a>
 <br/> 
