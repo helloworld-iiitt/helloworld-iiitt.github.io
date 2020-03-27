@@ -1,13 +1,59 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
-My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
+<span id="a">helloworld@iiitt</span>:<span id="b">~</span><span id="c">$</span> dev init/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">helloworld@iiitt</span>:<span id="b">~</span><span id="c">$</span> cd helloworld-iiitt/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
+<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->hellwowrld-iiitt.txt<br/><br/>
+We love trasforming , "<span id="a">Caffeine to Code</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>We are a group of tech enthusiasts who love open source world ,are recreational programmers & code golfers and software developers</p>
 
-<p>Cheers!</p>
+
+<p> Upcoming Events  
+<br>
+<span id="k"> <a href="https://helloworld-iiitt.github.io/">bit_by_bit</a> </span>
+</p>
+
+<br/>
+
+<p> Past Events  
+<br>
+ <a href="https://helloworld-iiitt.github.io/Winter-Of-Code-19/">Winter Of Code 2019</a>
+<br> 
+<a href="https://medium.com/@helloworld.iiitt/dev-streak-8d5c56158ec7">Dev Streak</a>
+<br/>
+<a href="https://medium.com/@helloworld.iiitt/ha-sh-19-an-introduction-to-open-source-with-hacktoberfest-38566ec70fb7">#Ha[.sh]</a>
+<br/>
+<a href="https://www.codechef.com/CBCP2020/">Cypher Ball:The Code Party</a>
+</p>
+
+
+Want to know about or got some queries??Reach out to us at: <a href="mailto:helloworld.iiitt@gmail.com?cc=fahad00cms@gmail.com" target="new">helloworld.iiitt@gmail.com</a>
+<br/>
+Or
+<br/>
+Any of our super cool dev-dudes:
+
+<p>
+Fahad Israr: A code who loves to code
+Web:<a href="https://fahad-israr.github.io/"></a>
+Email:<a href="mailto:fahadisrar.dev@gmail.com?cc=fahad00cms@gmail.com" target="new">fahadisrar.dev@gmail.com</a>
+</p>
+
+
+<p>
+Abhishek Singhal
+Web:https://abhhii.github.io/
+Email:<a href="mailto:abhisheksinghal7599@gmail.com" target="new">abhisheksinghal7599@gmail.com </a> 
+</p>
+
+
+
+<p>
+Siddharth Chillale<br/>
+Web:<a href="https://github.com/SiddharthChillale"></a><br/>
+Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">siddharth.chillale@gmail.com</a>
+</p>
+
+
+<p>Make it work, make it right, make it fast</p>
+<p>Cheers!!</p>
