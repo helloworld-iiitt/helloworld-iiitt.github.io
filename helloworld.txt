@@ -8,14 +8,14 @@ Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy
 <p>We are a group of tech enthusiasts who love open source world ,are recreational programmers & code golfers and software developers</p>
 
 
-<span id="a"> Upcoming Events:</span>  
+<span id="a"> Upcoming Events:[Click to Register]</span>  
 <br/>
 <span id="k"> <a href="https://helloworld-iiitt.github.io/">bit_by_bit</a> </span>
 
 
 <br/>
 
-<span id="a"> Past Events: </span> 
+<span id="a"> Past Events: [Click to Know More]</span> 
 <br/>
  <a href="https://helloworld-iiitt.github.io/Winter-Of-Code-19/">Winter Of Code 2019</a>
 <br/> 
@@ -36,17 +36,17 @@ Any of our super cool dev-dudes:
 
 <p>
 Fahad Israr: A code who loves to code
-Web:<a href="https://fahad-israr.github.io/"></a>
+Web:<a href="https://fahad-israr.github.io/">https://fahad-israr.github.io/</a>
 Email:<a href="mailto:fahadisrar.dev@gmail.com?cc=fahad00cms@gmail.com" target="new">fahadisrar.dev@gmail.com</a>
 </p>
 <p>
 Abhishek Singhal
-Web:https://abhhii.github.io/
+Web:<a href="https://abhhii.github.io/">https://abhhii.github.io/</a>
 Email:<a href="mailto:abhisheksinghal7599@gmail.com" target="new">abhisheksinghal7599@gmail.com </a> 
 </p>
 <p>
 Siddharth Chillale<br/>
-Web:<a href="https://github.com/SiddharthChillale"></a><br/>
+Web:<a href="https://github.com/SiddharthChillale">https://github.com/SiddharthChillale</a><br/>
 Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">siddharth.chillale@gmail.com</a>
 </p>
 
