@@ -4,7 +4,7 @@
 We love trasforming , "<span id="a">Caffeine to Code</span>". <!-- sjkfhskjf -->
 
 
-Hey There! Welcome to Helloworld,The Web Dev and Competitive Club of IIIT Trichy <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey There! Welcome to Helloworld,The Web Dev and Competitive Programming Club of IIIT Trichy <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>We are a group of tech enthusiasts who love open source world ,are recreational programmers & code golfers and software developers</p>
 
 
