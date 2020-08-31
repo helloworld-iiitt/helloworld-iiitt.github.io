@@ -40,9 +40,9 @@ Web:<a href="https://fahad-israr.github.io/">https://fahad-israr.github.io/</a>
 Email:<a href="mailto:fahadisrar.dev@gmail.com?cc=fahad00cms@gmail.com" target="new">fahadisrar.dev@gmail.com</a>
 </p>
 <p>
-Dinesh Vikram: I am awesome
-Web:<a href="https://abhhii.github.io/">https://dinskid.github.io/</a>
-Email:<a href="mailto:abhisheksinghal7599@gmail.com" target="new">dinskid@gmail.com </a> 
+Dinesh Vikram:A multi-language code.
+Web:<a href="https://dinskid.github.io/">https://dinskid.github.io/</a>
+Email:<a href="mailto:dineshvikram01@gmail.com" target="new">dineshvikram01@gmail.com</a> 
 </p>
 <p>
 Divyanshu Singh:awesome cp guy
@@ -51,13 +51,13 @@ Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">divyanshu@gmai
 </p>
 <p>
 Vishal :A code in execution, written by a coder.
-Web:<a href="https://github.com/VishalSharma2000">https://github.com/VishalSharma2000</a>
-Email: <a href="mailto:vishals18c@iiitt.ac.in" target="new">vishals18c@iiitt.ac.in</a>
+Web:<a href="https://VishalSharma2000.github.io">https://VishalSharma2000.github.io</a>
+Email: <a href="mailto:vishaljhsharma@gmail.com" target="new">vishaljhsharma@gmail.com</a>
 </p>
 <p>
 Nitish: Python guy
-Web:<a href="https://github.com/SiddharthChillale">https://github.com/divyanshu</a>
-Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">divyanshu@gmail.com</a>
+Web:<a href="https://thisisnitish.github.io">https://thisisnitish.github.io</a>
+Email: <a href="mailto:nitishkumargenius@gmail.com" target="new">nitishkumargenius@gmail.com</a>
 </p>
 
 
