@@ -50,9 +50,9 @@ Web:<a href="https://github.com/SiddharthChillale">https://github.com/divyanshu<
 Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">divyanshu@gmail.com</a>
 </p>
 <p>
-Vishal :awesome cp guy
-Web:<a href="https://github.com/SiddharthChillale">https://github.com/divyanshu</a>
-Email: <a href="mailto:siddharth.chillale@gmail.com" target="new">divyanshu@gmail.com</a>
+Vishal :A code in execution, written by a coder.
+Web:<a href="https://github.com/VishalSharma2000">https://github.com/VishalSharma2000</a>
+Email: <a href="mailto:vishals18c@iiitt.ac.in" target="new">vishals18c@iiitt.ac.in</a>
 </p>
 <p>
 Nitish: Python guy
