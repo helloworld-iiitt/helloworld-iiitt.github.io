@@ -47,7 +47,7 @@ Email:<a href="mailto:dineshvikram01@gmail.com" target="new">dineshvikram01@gmai
 <p>
 Divyanshu Gupta: <div.inRunningState />
 Web:<a href="https://dg222599.github.io/">https://dg222599.github.io</a>
-Email: <a href="mailto:mailto:gdivyanshu.dg@gmail.com" target="new">mailto:gdivyanshu.dg@gmail.com</a>
+Email: <a href="mailto:gdivyanshu.dg@gmail.com" target="new">gdivyanshu.dg@gmail.com</a>
 </p>
 <p>
 Vishal Sharma: A code in execution, written by a coder.
